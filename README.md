@@ -31,7 +31,7 @@ Level 1 builds on this by adding specialized subtasks chosen by team members to 
 The following sections provide a detailed discussion of the necessary preparations, the implementation of Level 0, and the selected subtasks.
 
 ### 1.2 Time Plan
-![Result Screenshot](Gantt Chart.jpg)
+![Result Screenshot](Gantt_Chart.jpg)
 
 The search for data was divided among the group members, with each person responsible for gathering different datasets relevant to the project.
 
