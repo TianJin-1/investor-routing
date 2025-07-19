@@ -152,7 +152,7 @@ The final output was displayed as an interactive GUI showing detailed statistics
 
 ### Screenshots
 
-![Result Screenshot](Screenshot.jpg)
+![Result Screenshot](screenshot.jpg)
 
 ## 4. Problems and Lessons Learned
 
